@@ -4,17 +4,15 @@
 
 # 👋 Hi, I'm **Kevuska**
 
-### Student Developer 
+### Student Developer
 
-Building projects, learning new technologies, and improving every day.
+Building projects, learning every day, and turning ideas into code.
 
 <br>
 
-<p>
-  <img src="https://img.shields.io/badge/Student-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Learning-Every%20Day-238636?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20Source-Ready-58A6FF?style=for-the-badge">
-</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </div>
 
@@ -22,27 +20,10 @@ Building projects, learning new technologies, and improving every day.
 
 ## 🚀 About Me
 
-```ts
-const kevuska = {
-  role: "Student Developer",
-  learning: [
-    "Web Development",
-    "Backend Development",
-    "Artificial Intelligence"
-  ],
-  goal: "Become a skilled software engineer.",
-};
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,git,github,vscode,linux&perline=6"/>
-
-</div>
+- 🎓 Student developer
+- 🌱 Currently learning new technologies
+- 💻 Interested in backend development and automation
+- 🎯 Always building something new
 
 ---
 
@@ -54,26 +35,13 @@ const kevuska = {
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevuska&layout=compact&theme=github_dark&hide_border=true"/>
 
-<br>
-
-<img width="700" src="https://streak-stats.demolab.com?user=Kevuska&theme=github-dark&hide_border=true"/>
-
 </div>
-
----
-
-## 🎯 Currently
-
-- 📚 Learning new technologies
-- 💻 Building personal projects
-- 🚀 Improving my programming skills
-- 🤝 Exploring open source
 
 ---
 
 <div align="center">
 
-*"Stay curious. Keep building."*
+> *Keep learning. Keep building.*
 
 </div>
 
