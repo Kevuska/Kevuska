@@ -1,20 +1,21 @@
-Hey, I'm Your Name 👋
+Hey, I'm Kevuska 👋
 
-Building software, learning every day, and turning ideas into reality.
+Building cool things, learning relentlessly, and writing code that lasts.
 
 🚀 About Me
 
-I'm a developer who enjoys creating fast, scalable, and user-friendly applications. I love solving problems, learning new technologies, and building projects that make an impact.
+I'm a developer who enjoys transforming ideas into real-world applications. I'm passionate about clean architecture, modern technologies, and continuously improving my skills.
 
 💻 Full-Stack Developer
 
-🌱 Always learning something new
+🌱 Always learning and experimenting
 
-🔍 Interested in AI, Web Development, Cloud, and Open Source
+🧠 Interested in AI, Web Development, Cloud, and Open Source
 
-⚡ Clean code, performance, and great user experience
+⚡ Focused on writing clean, scalable, and maintainable code
 
-🛠️ Tech Stack
+🛠 Tech Stack
+
 Languages
 
 JavaScript • TypeScript • Python • Java • C++
@@ -25,9 +26,9 @@ React • Next.js • Tailwind CSS • HTML • CSS
 
 Backend
 
-Node.js • Express • REST APIs
+Node.js • Express.js • REST APIs
 
-Database
+Databases
 
 PostgreSQL • MongoDB • MySQL
 
@@ -35,40 +36,26 @@ Tools
 
 Git • GitHub • Docker • Linux • VS Code
 
-📌 Current Focus
+📈 GitHub Stats
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kevuska&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevuska&layout=compact&theme=github_dark&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Kevuska&theme=github-dark&hide_border=true"/> </p>
+🎯 Current Goals
 
-Building production-ready applications
+Build projects that solve real problems
 
-Improving system design skills
+Master backend architecture and cloud technologies
 
-Exploring AI and automation
+Contribute to open source
 
-Contributing to open source
+Keep learning something new every day
 
-📊 GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true" /> </p>
-🏆 Goals
+🌍 Connect
 
-Ship meaningful projects
-
-Write maintainable code
-
-Keep learning
-
-Collaborate with amazing developers
-
-📫 Contact
-
-GitHub → https://github.com/YOUR_USERNAME
-
-LinkedIn → https://linkedin.com/in/YOUR_USERNAME
-
-Portfolio → https://yourwebsite.com
+GitHub → https://github.com/Kevuska
 
 <div align="center">
 
-"Code is more than making things work—it's about making them understandable, maintainable, and useful."
+"Great software isn't just built—it’s crafted."
 
-⭐ If you like my work, consider starring a repository.
+Thanks for stopping by! ⭐
 
 </div>
